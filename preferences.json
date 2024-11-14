@@ -1,0 +1,7 @@
+{
+    "show_timestamps": true,
+    "save_history": true,
+    "notification_sound": true,
+    "theme": "dark",
+    "max_history": 100
+}
