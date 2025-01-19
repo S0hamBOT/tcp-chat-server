@@ -1,4 +1,4 @@
-# tcp-chat-server
+# cmd-chat-server
 
 tcp-server-chat is a command-line chat application built using Python. It allows users to connect to a chat server, send and receive messages, and perform various chat-related commands.
 
